@@ -1,4 +1,4 @@
-# Hi there, I'm Will Web 👋
+# Hi there, I'm Will 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=willweb3&color=blue)
 
