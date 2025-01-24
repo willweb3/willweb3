@@ -4,8 +4,6 @@
 
 I'm a passionate web developer with a focus on modern web technologies and frameworks. I love creating beautiful and functional web applications that provide great user experiences.
 
-- 💬 Ask me about anything related to web development
-
 ## 🛠️ Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
