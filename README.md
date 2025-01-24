@@ -28,7 +28,3 @@ I'm a passionate web developer with a focus on modern web technologies and frame
 ## 🏆 GitHub Trophies
 
 ![Will's GitHub trophies](https://github-profile-trophy.vercel.app/?username=willweb3&theme=radical)
-
-## 📫 Get in Touch
-
-- Twitter: [@worldwillweb3](https://x.com/worldwillweb3)
