@@ -11,7 +11,6 @@ I'm a passionate web developer with a focus on modern web technologies and frame
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -21,7 +20,3 @@ I'm a passionate web developer with a focus on modern web technologies and frame
 ## 📈 GitHub Stats
 
 ![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=willweb3&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-
-![Will's GitHub trophies](https://github-profile-trophy.vercel.app/?username=willweb3&theme=radical)
